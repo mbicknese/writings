@@ -1,10 +1,9 @@
-# The professional clickbait
-
-| key          | value      |
------------------------------
-| date         | 27-07-2017 |
-| category     | opinion    |
-| reading time | X minutes  |
+---
+title: The professional clickbait
+date: 27-07-2017
+category: opinions
+reading_time: X minutes
+---
 
 *Note:* This is a personal opinion / rant. It might not actually add business
 value to you as a person.
@@ -25,4 +24,8 @@ best.
 It is kind of the same for picking blog posts or articles to read. My twitter
 feed is cramped with "Why true developers use Nuxt", "How to combine XDebug,
 PhpStorm and Docker!", etc. So I read them, update my knowledge and start using
-my new learned skills in the real live. 
+my new learned skills in the real live.
+
+But more and more often I find myself reading an article, reaching the end and
+thinking: This hasn't thought me anything, at all! Short lame articles with
+interesting titles. Sounds familiar? The clickbait!
