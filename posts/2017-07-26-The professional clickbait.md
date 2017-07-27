@@ -16,7 +16,7 @@ It is kind of the same for picking blog posts or articles to read. My twitter fe
 
 But more and more often I find myself reading an article, reaching the end and thinking: This hasn't thought me anything, at all! Short lame articles with interesting titles. Sounds familiar? The clickbait! But instead of the well known "What happened next, you'll never believe!", these titles look actually promising.
 
-Just the other day there was this article about picking a good laptop for web development. The only possible interesting line in there was "You'll need 16GB of RAM with all the VMs we're using these days." [That's not what I want to give my fucks to][2]. The article was even concluded with "I don't want to give personal advice on which laptop to buy." Well, if you didn't want to go opinionated. Personally I thought that was a little late after giving his personal opinion on which elements are required for web development.
+Just the other day there was this article about picking a good laptop for web development. The only possible interesting line in there was "You'll need 16GB of RAM with all the VMs we're using these days." [That's not what I want to give my fucks to][2]. The article was even concluded with "I don't want to give personal advice on which laptop to buy." Personally I thought that was a little late after giving his personal opinion on which elements are required for web development.
 
 So please, fellow developers, write articles that truly contribute to the development world. So not like this one.
 
