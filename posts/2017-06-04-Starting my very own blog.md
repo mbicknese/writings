@@ -4,8 +4,6 @@ date: 2017-06-04
 tags: personal, meta
 ---
 
-# Starting my very own blog.
-
 So here I am, writing my very first article of my very first blog.
 
 Not much to say just yet but keep an eye out for new articles. In the past I've
